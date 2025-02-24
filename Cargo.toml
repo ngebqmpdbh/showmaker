@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Markdown to Slide"
 # clarify the control flow
+# keep defaults in sync with the manifest
